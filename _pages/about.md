@@ -17,15 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year Master's student in Artificial Intelligence at [Tsinghua University](https://www.tsinghua.edu.cn/), under the supervision of [Prof. Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ). My research interests lie in the general area of machine learning and deep learning. I worked on brain-inspired computing, neuromorphic computing and spiking neural networks during my undergraduate studies. Currently, I am mainly working on data mining, information retrieval and recommender systems, and work closely with Huawei Noah’s Ark Lab. I am looking for a <strong>Ph.D. candidate</strong> position in <strong>2024 Fall</strong>, and sincerely look forward to being contacted (*zhang-hy21@mails.tsinghua.edu.cn*).
+I am currently a second-year Master's student in Artificial Intelligence at [Tsinghua University](https://www.tsinghua.edu.cn/), under the supervision of [Prof. Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ) and [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ). My research interests lie in the areas of Graph Neural Network, Recommender System, Machine Learning, and Multi-task Learning. Currently, I am mainly working on data mining, information retrieval and recommender systems.
 
 My recent work topics include but are not limited to:
 <ul>
-    <li>Recommendation algorithms based on user behavior sequence modeling</li>
+    <li>Recommendation algorithms based on Graph Neural Network</li>
     <li>Multi-behavior/Multi-scenario/Multi-task/Multi-modal recommendation algorithm</li>
-    <li>Sequence representation learning</li>
-    <li>Recommendation Big Model</li>
-    <li>Recommendation algorithm based on graph neural network</li>
+    <li>Sequential Recommendation</li>
+    <li>Click Trough Rate Estimation</li>
 </ul>
 
 <!-- # 🔥 News
@@ -36,66 +35,49 @@ My recent work topics include but are not limited to:
 
 $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2023</div><img src='images/kdd2023.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2023</div><img src='images/KDD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hierarchical Projection Enhanced Multi-behavior Recommendation.]()
 
-[Chang Meng](https://scholar.google.com/citations?user=0yh3nS8AAAAJ)<sup>*</sup>, **[Hengyu Zhang](https://scholar.google.com/citations?user=wYQUEaMAAAAJ)<sup>*</sup>**, [Wei Guo](https://scholar.google.com/citations?user=9NGhGNgAAAAJ), [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ), Haotian Liu, [Yingxue Zhang](https://scholar.google.com/citations?user=4bsYpogAAAAJ), [Hongkun Zheng](https://scholar.google.com/citations?user=uWjGhmoAAAAJ), [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ)<sup>$\dagger$</sup>, [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ)<sup>$\dagger$</sup>, [Rui Zhang](https://scholar.google.com/citations?user=p-YB1msAAAAJ)
+**[Chang Meng](https://scholar.google.com/citations?user=0yh3nS8AAAAJ)<sup>*</sup>**, [Hengyu Zhang](https://scholar.google.com/citations?user=wYQUEaMAAAAJ)<sup>*</sup>, [Wei Guo](https://scholar.google.com/citations?user=9NGhGNgAAAAJ), [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ), Haotian Liu, [Yingxue Zhang](https://scholar.google.com/citations?user=4bsYpogAAAAJ), [Hongkun Zheng](https://scholar.google.com/citations?user=uWjGhmoAAAAJ), [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ)<sup>$\dagger$</sup>, [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ)<sup>$\dagger$</sup>, [Rui Zhang](https://scholar.google.com/citations?user=p-YB1msAAAAJ)
 
 <i>The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'23, CCF-A
 
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div><img src='images/cikm2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/WWW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Disentangling Past-Future Modeling in Sequential Recommendation via Dual Networks.](https://doi.org/10.1145/3511808.3557289)
+[Compressed Interaction Graph based Framework for Multi-behavior Recommendation.](https://doi.org/10.1145/3543507.3583312) **(first student author, supervised by Wei Guo)**
 
-**[Hengyu Zhang](https://scholar.google.com/citations?user=wYQUEaMAAAAJ)<sup>*</sup>**, [Enming Yuan](https://scholar.google.com/citations?user=lUqJRhEAAAAJ)<sup>*</sup>, [Wei Guo](https://scholar.google.com/citations?user=9NGhGNgAAAAJ), [Zhicheng He](https://scholar.google.com/citations?user=a81k2IoAAAAJ), [Jiarui Qin](https://scholar.google.com/citations?user=JPBGjOYAAAAJ), [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ), [Bo Chen](https://scholar.google.com/citations?user=RZU1wxsAAAAJ), [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ)<sup>$\dagger$</sup>, [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ)<sup>$\dagger$</sup>
+[Wei Guo](https://scholar.google.com/citations?user=9NGhGNgAAAAJ)<sup>*</sup>**[Chang Meng](https://scholar.google.com/citations?user=0yh3nS8AAAAJ)<sup>*</sup>**, [Enming Yuan](https://scholar.google.com/citations?user=lUqJRhEAAAAJ)<sup>*</sup>, [Zhicheng He](https://scholar.google.com/citations?user=a81k2IoAAAAJ), [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ), [Yingxue Zhang](https://scholar.google.com/citations?user=4bsYpogAAAAJ), [Bo Chen](https://scholar.google.com/citations?user=RZU1wxsAAAAJ), [Yaochen Hu](https://scholar.google.com.hk/citations?user=VMwM-ZwAAAAJ), [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ)<sup>$\dagger$</sup>, [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ)<sup>$\dagger$</sup>, [Rui Zhang](https://scholar.google.com/citations?user=p-YB1msAAAAJ)
 
-<i>The 31st ACM International Conference on Information & Knowledge Management</i>, CIKM'22, CCF-B
+<i>Proceedings of the ACM Web Conference 2023</i>, WWW'23, CCF-A
 
-[**Paper**](https://doi.org/10.1145/3511808.3557289) [**Code**](https://github.com/zhy99426/DualRec) [**Demo**](https://codeocean.com/capsule/2893025/tree)
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+[**Paper**](https://doi.org/10.1145/3543507.3583312) [**Code**](https://github.com/MC-CV/CIGF)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/tpami.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Attention Spiking Neural Networks.](https://doi.org/10.1109/TPAMI.2023.3241201)
-
-[Man Yao](https://scholar.google.com/citations?user=eE4vvp0AAAAJ), [Guangshe Zhao](https://ieeexplore.ieee.org/author/38194787800), **[Hengyu Zhang](https://scholar.google.com/citations?user=wYQUEaMAAAAJ)**, [Yifan Hu](https://scholar.google.com/citations?user=NBsnGgoAAAAJ), [Lei Deng](https://scholar.google.com/citations?user=vlqhAN4AAAAJ), [Yonghong Tian](https://scholar.google.com/citations?user=fn6hJx0AAAAJ), [Bo Xu](https://people.ucas.ac.cn/~xubo?language=en), [Guoqi Li](https://scholar.google.com/citations?user=qCfE--MAAAAJ)<sup>$^\dagger$</sup>
-
-<i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, TPAMI, CCF-A, IF=24.314
-
-[**Paper**](https://doi.org/10.1109/TPAMI.2023.3241201) [**Code**](https://github.com/fangwei123456/spikingjelly) 
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-</div>
-</div>
 
 # 🎖 Honors and Awards
-  - *Nov. 2020*  <i> First Prize</i> of the 9th National College Students Mechanical Innovation Design Competition
-  - *Sept. 2020*  <i> Third Prize</i>  of National Undergraduate Electronic Design Contest
-     $--$ the Advanced Information Technology Invitational Contest
-  - *Apr. 2020*  <i>Honorable mention</i>  of the Interdisciplinary Contest in Modeling
-  - *Dec. 2018*  <i> Second Prize</i>  of China Undergraduate Mathematical Contest in Modeling (Shaanxi Division)
-  - *Oct. 2019*  <i> Third Prize</i>  of National Undergraduate Electronic Design Contest (Shaanxi Division)
-  - *Nov. 2018 & Dec. 2020*  <i> First-class Scholarship</i> of Xi'an Jiaotong University 
-  - *Dec. 2019*  Shenzhen Stock Exchange Scholarship
-  - *Nov. 2018 & Nov. 2019 & Nov. 2020*  <i> "Outstanding Student"</i>  of Xi'an Jiaotong University
-  - *May. 2021*  <i> "Outstanding Graduate"</i>  of Xi'an Jiaotong University
-  - *Oct. 2022*  <i> Second-class Scholarship</i>  of Tsinghua University
+  - *2021*  Graduation Gold List - Personality Development Star (the only one in the university)
+  - *2021*  Outstanding graduates
+  - *2019*  National Scholarship
+  - *2018*  National Scholarship
+  - *2018*  Provincial merit students
+  - *2019*  <i> National Finals Special Prize</i>  of “Siemens Cup” China Intelligent Manufacturing Contest
+  - *2019*  <i> Provincial Special Prize</i> of “Siemens Cup” China Intelligent Manufacturing Contest
+  - *2019*  <i> Second Prize</i>  of National College Students Mathematical Contest in Modeling (CUMCM)
+  - *2018*  <i> First Prize</i>  of National Mathematics Competition for College students
+  - *2015*  <i> Gold Medal</i>  of China Southeast Mathematics Olympiad (CSMO)
 
 # 📖 Educations
 
-- *2021.08 -- Present*, Master, Shenzhen International Graduate School, **Tsinghua University**. 
-- *2017.08 -- 2021.07*, Bachelor, Faculty of Electronic and Information Engineering, **Xi'an Jiao Tong University**.
+- *2021.09 -- Present*, Master, Shenzhen International Graduate School, **Tsinghua University**. 
+- *2017.09 -- 2021.07*, Bachelor, College of Intelligent Systems Science and Engineering, **Harbin Engineering University**.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -103,7 +85,28 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 # 💻 Internships
 
-- *2022.06 -- Present*, <i>Research Intern</i>, **Huawei Noah’s Ark Lab**, Search & Recommendation Group, Shenzhen, China
+- *2021.12 -- 2022.12, <i>Research Intern</i>, **Huawei**, Noah’s Ark Lab, Shenzhen, China
 
-    Mentor: [Wei Guo](https://scholar.google.com/citations?user=9NGhGNgAAAAJ) & [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ)
+    Topic: Research on recommendation algorithm based on user multi-behavior modeling
+    Projects: Graph Neural Network & Multi-behavior Recommendation
+
+- *2022.12 -- 2023.03, <i>Research Intern</i>, **Alibaba Group**, Aliyun, Hangzhou, China
+
+    Topic: Research on cloud platform recommendation algorithm
+    Projects: Graph Neural Network & Recommendation
+
+- *2023.04 -- 2023.06, <i>Search Algorithm Intern (Byteintern)</i>, **ByteDance**, Tiktok, Shanghai, China
+
+    Topic: Development of e-commerce CTR/CVR algorithm for Tiktok
+    Projects: Search & Recommendation
+
+- *2023.06 -- Present*, <i>Recommendation Algorithm Intern (Summer Intern)</i>, **Tencent**, WeiXin Group, Guangzhou, China
+
+    Topic: Development of e-commerce CTR/CVR algorithm for WeChat
+    Projects: Search & Recommendation
+  
+  
+
+
+
 
