@@ -138,7 +138,7 @@ h1:before, .anchor:before {
         width: 50%;
         order: 2;
         img {
-            max-width: 50px;
+            max-width: 40px;
         }
     }
     
@@ -146,22 +146,5 @@ h1:before, .anchor:before {
         max-width: 100%;
         order: 1;
     }
-    
-    // @include breakpoint($medium) {
-    //     .image{
-    //         justify-content: center;
-    //         min-width: 25px;
-    //         max-width: 10%;
-    //         order: 1;
-    //     }
-        
-    //     .text{
-    //         justify-content: left;
-    //         // padding-left: 2em;
-    //         max-width: 90%;
-    //         order: 2;
-    //     }
-
-
 
 }
