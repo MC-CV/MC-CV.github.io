@@ -180,7 +180,7 @@ h1:before, .anchor:before {
     @include breakpoint($medium) {
         .image{
             justify-content: center;
-            min-width: 50px;
+            min-width: 40px;
             max-width: 20%;
             order: 1;
         }
