@@ -85,11 +85,15 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 # 💻 Internships
 
+<div class='image-with-text'><div><img src='images/huazi.png' alt="sym" width="50%"></div>
+<div class='text' markdown="1">
 - *2021.12 -- 2022.12*, <i>Research Intern</i>, **Huawei**, Noah’s Ark Lab, Shenzhen, China
 
     Topic: Research on recommendation algorithm based on user multi-behavior modeling
 
     Projects: Graph Neural Network & Multi-behavior Recommendation
+</div>
+</div>
 
 - *2022.12 -- 2023.03*, <i>Research Intern</i>, **Alibaba Group**, Aliyun, Hangzhou, China
 
