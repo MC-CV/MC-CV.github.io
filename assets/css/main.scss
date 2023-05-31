@@ -118,23 +118,42 @@ h1:before, .anchor:before {
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+    padding: 1em 0 1em 0;
     
 
     .image{
         justify-content: left;
-        min-width: 100px;
-        max-width: 20%;
+        min-width: 40px;
+        max-width: 30%;
         order: 1;
+        img {
+            max-width: 400px;
+        }
     }
     
     .text{
         justify-content: left;
         padding-left: 2em;
-        max-width: 80%;
+        max-width: 70%;
         order: 2;
     }
     
+    @include breakpoint($medium) {
+        .image{
+            justify-content: left;
+            min-width: 40px;
+            max-width: 30%;
+            order: 1;
+        }
+        
+        .text{
+            justify-content: left;
+            padding-left: 2em;
+            max-width: 70%;
+            order: 2;
+        }
+
+    }
 
 
 }
