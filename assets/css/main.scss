@@ -135,7 +135,7 @@ h1:before, .anchor:before {
     .image{
         justify-content: center;
         display: flex;
-        width: 100%;
+        width: 50%;
         order: 2;
         img {
             max-width: 50px;
@@ -147,20 +147,20 @@ h1:before, .anchor:before {
         order: 1;
     }
     
-    @include breakpoint($medium) {
-        .image{
-            justify-content: center;
-            min-width: 25px;
-            max-width: 5%;
-            order: 1;
-        }
+    // @include breakpoint($medium) {
+    //     .image{
+    //         justify-content: center;
+    //         min-width: 25px;
+    //         max-width: 10%;
+    //         order: 1;
+    //     }
         
-        .text{
-            justify-content: left;
-            // padding-left: 2em;
-            max-width: 95%;
-            order: 2;
-        }
+    //     .text{
+    //         justify-content: left;
+    //         // padding-left: 2em;
+    //         max-width: 90%;
+    //         order: 2;
+    //     }
 
     }
 
