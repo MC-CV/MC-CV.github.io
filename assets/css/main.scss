@@ -110,12 +110,61 @@ h1:before, .anchor:before {
 
 
 
+// .image-with-text {
+//     display: flex;
+//     align-items: center;
+//   }
+  
+// .image-with-text img {
+// max-width: 100px; /* 根据需要设置图片的最大宽度 */
+// margin-right: 10px; /* 调整图片和文本之间的间距 */
+// }
+
+
+
 .image-with-text {
     display: flex;
+    justify-content: left;
     align-items: center;
-  }
-  
-.image-with-text img {
-max-width: 100px; /* 根据需要设置图片的最大宽度 */
-margin-right: 10px; /* 调整图片和文本之间的间距 */
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 1px #efefef solid;
+    padding: 2em 0 2em 0;
+    
+
+    .image{
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        order: 2;
+        img {
+            max-width: 50px;
+            // box-shadow: 3px 3px 6px #888;
+            // object-fit: cover;
+        }
+    }
+    
+    .text{
+        max-width: 100%;
+        order: 1;
+    }
+    
+    @include breakpoint($medium) {
+        .image{
+            justify-content: left;
+            min-width: 25px;
+            max-width: 10%;
+            order: 1;
+        }
+        
+        .text{
+            justify-content: left;
+            padding-left: 2em;
+            max-width: 90%;
+            order: 2;
+        }
+
+    }
+
+
 }
