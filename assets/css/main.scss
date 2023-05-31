@@ -129,7 +129,7 @@ h1:before, .anchor:before {
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+    padding: 1em 0 1em 0;
     
 
     .image{
@@ -159,7 +159,7 @@ h1:before, .anchor:before {
         
         .text{
             justify-content: left;
-            padding-left: 2em;
+            // padding-left: 2em;
             max-width: 90%;
             order: 2;
         }
