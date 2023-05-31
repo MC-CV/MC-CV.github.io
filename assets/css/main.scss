@@ -110,46 +110,6 @@ h1:before, .anchor:before {
 
 
 
-// .image-with-text {
-//     display: flex;
-//     align-items: center;
-//   }
-  
-// .image-with-text img {
-// max-width: 100px; /* 根据需要设置图片的最大宽度 */
-// margin-right: 10px; /* 调整图片和文本之间的间距 */
-// }
-
-
-
-.image-with-text {
-    display: flex;
-    justify-content: left;
-    align-items: center;
-    flex-direction: row;
-    flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 1em 0 1em 0;
-    
-
-    .image{
-        justify-content: left;
-        display: flex;
-        max-width: 20%;
-        order: 2;
-        img {
-            max-width: 200px;
-        }
-    }
-    
-    .text{
-        max-width: 80%;
-        // width: 100%;
-        order: 1;
-    }
-
-}
-
 
 
 .image-with-text {
@@ -179,7 +139,7 @@ h1:before, .anchor:before {
     
     @include breakpoint($medium) {
         .image{
-            justify-content: center;
+            justify-content: left;
             min-width: 40px;
             max-width: 20%;
             order: 1;
