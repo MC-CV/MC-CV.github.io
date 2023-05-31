@@ -85,7 +85,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 # 💻 Internships
 
-<div class='image-with-text'><div class='image'><div><img src='images/huazi.png' width="40%"></div></div>
+<div class='image-with-text'><div class='image'><div><img src='images/huazi.png' width="100%"></div></div>
 <div class='text' markdown="1">
 - *2021.12 -- 2022.12*, <i>Research Intern</i>, **Huawei**, Noah’s Ark Lab, Shenzhen, China
 
@@ -95,7 +95,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 </div>
 </div>
 
-<div class='image-with-text'><div class='image'><div><img src='images/alibaba-cloud.png' width="20%"></div></div>
+<div class='image-with-text'><div class='image'><div><img src='images/alibaba-cloud.png' width="100%"></div></div>
 <div class='text' markdown="1">
 - *2022.12 -- 2023.03*, <i>Research Intern</i>, **Alibaba Group**, Aliyun, Hangzhou, China
 
@@ -105,7 +105,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 </div>
 </div>
 
-<div class='image-with-text'><div class='image'><div><img src='images/Tiktok_Logo.png' width="20%"></div></div>
+<div class='image-with-text'><div class='image'><div><img src='images/Tiktok_Logo.png' width="100%"></div></div>
 <div class='text' markdown="1">
 - *2023.04 -- 2023.06*, <i>Search Algorithm Intern (Byteintern)</i>, **ByteDance**, Tiktok, Shanghai, China
 
@@ -115,7 +115,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 </div>
 </div>
 
-<div class='image-with-text'><div class='image'><div><img src='images/WeChat-Logo.png' width="20%"></div></div>
+<div class='image-with-text'><div class='image'><div><img src='images/WeChat-Logo.png' width="100%"></div></div>
 <div class='text' markdown="1">
 - *2023.06 -- Present*, <i>Recommendation Algorithm Intern (Summer Intern)</i>, **Tencent**, WeiXin Group, Guangzhou, China
 
