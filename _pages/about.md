@@ -85,24 +85,28 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 # 💻 Internships
 
-- *2021.12 -- 2022.12, <i>Research Intern</i>, **Huawei**, Noah’s Ark Lab, Shenzhen, China
+- *2021.12 -- 2022.12*, <i>Research Intern</i>, **Huawei**, Noah’s Ark Lab, Shenzhen, China
 
     Topic: Research on recommendation algorithm based on user multi-behavior modeling
+
     Projects: Graph Neural Network & Multi-behavior Recommendation
 
-- *2022.12 -- 2023.03, <i>Research Intern</i>, **Alibaba Group**, Aliyun, Hangzhou, China
+- *2022.12 -- 2023.03*, <i>Research Intern</i>, **Alibaba Group**, Aliyun, Hangzhou, China
 
     Topic: Research on cloud platform recommendation algorithm
+
     Projects: Graph Neural Network & Recommendation
 
-- *2023.04 -- 2023.06, <i>Search Algorithm Intern (Byteintern)</i>, **ByteDance**, Tiktok, Shanghai, China
+- *2023.04 -- 2023.06*, <i>Search Algorithm Intern (Byteintern)</i>, **ByteDance**, Tiktok, Shanghai, China
 
     Topic: Development of e-commerce CTR/CVR algorithm for Tiktok
+
     Projects: Search & Recommendation
 
 - *2023.06 -- Present*, <i>Recommendation Algorithm Intern (Summer Intern)</i>, **Tencent**, WeiXin Group, Guangzhou, China
 
     Topic: Development of e-commerce CTR/CVR algorithm for WeChat
+    
     Projects: Search & Recommendation
   
   
