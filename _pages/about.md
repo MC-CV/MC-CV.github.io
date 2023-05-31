@@ -85,7 +85,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 # 💻 Internships
 
-<div class='image-with-text'><div class='image'><div><img src='images/huazi.png'  width="60%"></div></div>
+<div class='image-with-text'><div class='image'><div><img src='images/huawei.png'  width="100%"></div></div>
 <div class='text' markdown="1">
 - *2021.12 -- 2022.12*, <i>Research Intern</i>, **Huawei**, Noah’s Ark Lab, Shenzhen, China
 
