@@ -53,7 +53,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 [Compressed Interaction Graph based Framework for Multi-behavior Recommendation.](https://doi.org/10.1145/3543507.3583312) **(first student author, supervised by Wei Guo)**
 
-[Wei Guo](https://scholar.google.com/citations?user=9NGhGNgAAAAJ)<sup>*</sup>**[Chang Meng](https://scholar.google.com/citations?user=0yh3nS8AAAAJ)<sup>*</sup>**, [Enming Yuan](https://scholar.google.com/citations?user=lUqJRhEAAAAJ), [Zhicheng He](https://scholar.google.com/citations?user=a81k2IoAAAAJ), [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ), [Yingxue Zhang](https://scholar.google.com/citations?user=4bsYpogAAAAJ), [Bo Chen](https://scholar.google.com/citations?user=RZU1wxsAAAAJ), [Yaochen Hu](https://scholar.google.com.hk/citations?user=VMwM-ZwAAAAJ), [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ)<sup>$\dagger$</sup>, [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ)<sup>$\dagger$</sup>, [Rui Zhang](https://scholar.google.com/citations?user=p-YB1msAAAAJ)
+[Wei Guo](https://scholar.google.com/citations?user=9NGhGNgAAAAJ)<sup>*</sup>**, [Chang Meng](https://scholar.google.com/citations?user=0yh3nS8AAAAJ)<sup>*</sup>**, [Enming Yuan](https://scholar.google.com/citations?user=lUqJRhEAAAAJ), [Zhicheng He](https://scholar.google.com/citations?user=a81k2IoAAAAJ), [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ), [Yingxue Zhang](https://scholar.google.com/citations?user=4bsYpogAAAAJ), [Bo Chen](https://scholar.google.com/citations?user=RZU1wxsAAAAJ), [Yaochen Hu](https://scholar.google.com.hk/citations?user=VMwM-ZwAAAAJ), [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ)<sup>$\dagger$</sup>, [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ)<sup>$\dagger$</sup>, [Rui Zhang](https://scholar.google.com/citations?user=p-YB1msAAAAJ)
 
 <i>Proceedings of the ACM Web Conference 2023</i>, WWW'23, CCF-A
 
@@ -84,24 +84,13 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-
-<div class='image-with-text'><div class='image'><div><img src='images/huawei.png'  width="100%"></div></div>
+<div class='image-with-text'><div class='image'><div><img src='images/WeChat-Logo.png' width="100%"></div></div>
 <div class='text' markdown="1">
-- *2021.12 -- 2022.12*, <i>Research Intern</i>, **Huawei**, Noah’s Ark Lab, Shenzhen, China
+- *2023.06 -- Present*, <i>Recommendation Algorithm Intern (Summer Intern)</i>, **Tencent**, WeiXin Group, Guangzhou, China
 
-    Topic: Research on recommendation algorithm based on user multi-behavior modeling
-
-    Projects: Graph Neural Network & Multi-behavior Recommendation
-</div>
-</div>
-
-<div class='image-with-text'><div class='image'><div><img src='images/alibaba-cloud.png' width="100%"></div></div>
-<div class='text' markdown="1">
-- *2022.12 -- 2023.03*, <i>Research Intern</i>, **Alibaba Group**, Aliyun, Hangzhou, China
-
-    Topic: Research on cloud platform recommendation algorithm
-
-    Projects: Graph Neural Network & Recommendation
+    Topic: Development of e-commerce CTR/CVR algorithm for WeChat
+    
+    Projects: Search & Recommendation
 </div>
 </div>
 
@@ -115,15 +104,30 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 </div>
 </div>
 
-<div class='image-with-text'><div class='image'><div><img src='images/WeChat-Logo.png' width="100%"></div></div>
+<div class='image-with-text'><div class='image'><div><img src='images/alibaba-cloud.png' width="100%"></div></div>
 <div class='text' markdown="1">
-- *2023.06 -- Present*, <i>Recommendation Algorithm Intern (Summer Intern)</i>, **Tencent**, WeiXin Group, Guangzhou, China
+- *2022.12 -- 2023.03*, <i>Research Intern</i>, **Alibaba Group**, Aliyun, Hangzhou, China
 
-    Topic: Development of e-commerce CTR/CVR algorithm for WeChat
-    
-    Projects: Search & Recommendation
+    Topic: Research on cloud platform recommendation algorithm
+
+    Projects: Graph Neural Network & Recommendation
 </div>
 </div>
+
+<div class='image-with-text'><div class='image'><div><img src='images/huawei.png'  width="100%"></div></div>
+<div class='text' markdown="1">
+- *2021.12 -- 2022.12*, <i>Research Intern</i>, **Huawei**, Noah’s Ark Lab, Shenzhen, China
+
+    Topic: Research on recommendation algorithm based on user multi-behavior modeling
+
+    Projects: Graph Neural Network & Multi-behavior Recommendation
+</div>
+</div>
+
+
+
+
+
   
 
 
