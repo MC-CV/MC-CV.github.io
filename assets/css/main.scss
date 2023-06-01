@@ -123,8 +123,8 @@ h1:before, .anchor:before {
 
     .image{
         justify-content: left;
-        min-width: 160px;
-        max-width: 30%;
+        min-width: 40px;
+        max-width: 40%;
         order: 1;
         img {
             max-width: 400px;
@@ -134,7 +134,7 @@ h1:before, .anchor:before {
     .text{
         justify-content: left;
         padding-left: 2em;
-        max-width: 70%;
+        max-width: 60%;
         order: 2;
     }
     
