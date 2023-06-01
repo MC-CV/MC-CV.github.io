@@ -113,7 +113,7 @@ h1:before, .anchor:before {
 
 .image-with-text {
     display: flex;
-    justify-content: left;
+    justify-content: center;
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
@@ -140,7 +140,7 @@ h1:before, .anchor:before {
     
     @include breakpoint($medium) {
         .image{
-            justify-content: center;
+            justify-content: left;
             min-width: 40px;
             max-width: 20%;
             order: 1;
