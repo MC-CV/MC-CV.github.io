@@ -36,6 +36,18 @@ My recent work topics include but are not limited to:
 $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/TOIS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Coarse-to-Fine Knowledge-Enhanced Multi-Interest Learning Framework for Multi-Behavior Recommendation.]()
+
+**[Chang Meng](https://scholar.google.com/citations?user=0yh3nS8AAAAJ)<sup>*</sup>**, Ziqi Zhao<sup>*</sup>, [Wei Guo](https://scholar.google.com/citations?user=9NGhGNgAAAAJ), [Yingxue Zhang](https://scholar.google.com/citations?user=4bsYpogAAAAJ), [Haolun Wu](https://scholar.google.com/citations?user=-KcBDLcAAAAJ), [Chen Gao](https://scholar.google.com/citations?user=Af60_cEAAAAJ), [Dong Li](https://dblp.org/pid/47/4826-16.html), [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ)<sup>$\dagger$</sup>, [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ)<sup>$\dagger$</sup>
+
+<i>arxiv</i>        
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2023</div><img src='images/KDD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
