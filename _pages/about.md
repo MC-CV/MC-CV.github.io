@@ -108,7 +108,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 <div class='image-with-text'><div class='image'><div><img src='images/Tiktok_Logo.png' width="90%"></div></div>
 <div class='text' markdown="1">
-- *2023.04 -- 2023.06*, <i>Search Algorithm Intern (Byteintern)</i>, **ByteDance**, Tiktok, Shanghai, China
+- *2023.04 -- 2023.06*, <i>Search Algorithm Intern (Byteintern)</i>, **ByteDance**, TikTok, Shanghai, China
 
     Topic: Development of e-commerce CTR/CVR algorithm for Tiktok
 
