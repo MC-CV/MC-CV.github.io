@@ -57,6 +57,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 <i>The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'23, CCF-A
 
+[**Paper**](https://doi.org/10.1145/3580305.3599838) [**Code**](https://github.com/MC-CV/HPMR)
 </div>
 </div>
 
