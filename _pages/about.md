@@ -90,8 +90,8 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 # 📖 Educations
 
-- *2021.09 -- Present*, Master, Shenzhen International Graduate School, **Tsinghua University**. 
-- *2017.09 -- 2021.07*, Bachelor, College of Intelligent Systems Science and Engineering, **Harbin Engineering University**.
+- *2021.09 -- Present*, Master, Artificial Intelligence, **Tsinghua University**. 
+- *2017.09 -- 2021.07*, Bachelor, Automation, **Harbin Engineering University**.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
