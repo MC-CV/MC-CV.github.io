@@ -102,7 +102,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 <div class='text' markdown="1">
 - *2023.06 -- Present*, <i>Recommendation Algorithm Intern (Summer Intern)</i>, **Tencent**, WeiXin Group, Guangzhou, China
 
-    Topic: Development of CTR/CVR algorithm for WeChat
+    Topic: Development of CTR algorithm for WeChat
     
     Projects: Search & Recommendation
 </div>
