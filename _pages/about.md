@@ -45,7 +45,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 <i>ACM Transactions on Information Systems</i>, TOIS, CCF-A       
 
-[**Paper**](https://arxiv.org/pdf/2208.01849.pdf) [**Code**](https://github.com/MC-CV/CKML)
+[**Paper**](https://doi.org/10.1145/3606369) [**Code**](https://github.com/MC-CV/CKML)
 </div>
 </div>
 
