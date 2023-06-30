@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chang Meng"
+title                    : "Chang Meng (孟昶)"
 description              : "A second-year master's student in artificial intelligence at Tsinghua University. Focusing on data mining and information retrieval."
 repository               : "MC-CV.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chang Meng"
+  name             : "Chang Meng (孟昶)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : 
   location         : "Hangzhou, China"
