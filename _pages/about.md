@@ -42,7 +42,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 **[Chang Meng](https://scholar.google.com/citations?user=0yh3nS8AAAAJ)<sup>*</sup>**, Chenhao Zhai<sup>*</sup>, Yu Yang, [Hengyu Zhang](https://scholar.google.com/citations?user=wYQUEaMAAAAJ), [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ)<sup>$\dagger$</sup>
 
-<i>Proceedings of the 32nd ACM International Conference on Information & Knowledge Management</i>, CIKM, CCF-B       
+<i>Proceedings of the 32nd ACM International Conference on Information & Knowledge Management</i>, CIKM'23, CCF-B       
 
 [**Paper**] [**Code**](https://github.com/MC-CV/PKEF)
 </div>
