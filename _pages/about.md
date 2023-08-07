@@ -42,7 +42,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 **[Chang Meng](https://scholar.google.com/citations?user=0yh3nS8AAAAJ)<sup>*</sup>**, Chenhao Zhai<sup>*</sup>, Yu Yang, [Hengyu Zhang](https://scholar.google.com/citations?user=wYQUEaMAAAAJ), [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ)<sup>$\dagger$</sup>
 
-<i>Proceedings of the 32nd ACM International Conference on Information & Knowledge Management</i>, CIKM'23`, CCF-B       
+<i>Proceedings of the 32nd ACM International Conference on Information & Knowledge Management</i>, CIKM'23, CCF-B       
 
 [**Paper**] [**Code**](https://github.com/MC-CV/PKEF)
 </div>
@@ -55,7 +55,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 **[Chang Meng](https://scholar.google.com/citations?user=0yh3nS8AAAAJ)<sup>*</sup>**, Ziqi Zhao<sup>*</sup>, [Wei Guo](https://scholar.google.com/citations?user=9NGhGNgAAAAJ), [Yingxue Zhang](https://scholar.google.com/citations?user=4bsYpogAAAAJ), [Haolun Wu](https://scholar.google.com/citations?user=-KcBDLcAAAAJ), [Chen Gao](https://scholar.google.com/citations?user=Af60_cEAAAAJ), [Dong Li](https://dblp.org/pid/47/4826-16.html), [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ)<sup>$\dagger$</sup>, [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ)<sup>$\dagger$</sup>
 
-<i>ACM Transactions on Information Systems</i>, TOIS 2023, CCF-A       
+<i>ACM Transactions on Information Systems</i>, TOIS'23, CCF-A       
 
 [**Paper**](https://doi.org/10.1145/3606369) [**Code**](https://github.com/MC-CV/CKML)
 </div>
