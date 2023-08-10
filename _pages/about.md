@@ -38,13 +38,13 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2023</div><img src='images/CIKM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Parallel Knowledge Enhancement based Framework for Multi-behavior Recommendation.]()
+[Parallel Knowledge Enhancement based Framework for Multi-behavior Recommendation.](https://arxiv.org/abs/2308.04807)
 
 **[Chang Meng](https://scholar.google.com/citations?user=0yh3nS8AAAAJ)<sup>*</sup>**, Chenhao Zhai<sup>*</sup>, Yu Yang, [Hengyu Zhang](https://scholar.google.com/citations?user=wYQUEaMAAAAJ), [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ)<sup>$\dagger$</sup>
 
 <i>Proceedings of the 32nd ACM International Conference on Information & Knowledge Management</i>, CIKM'23, CCF-B       
 
-[**Paper**] [**Code**](https://github.com/MC-CV/PKEF)
+[**Paper**](https://arxiv.org/abs/2308.04807) [**Code**](https://github.com/MC-CV/PKEF)
 </div>
 </div>
 
