@@ -89,11 +89,16 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 
 # 🎖 Honors and Awards
+## Honors
+  - *2022*  Second-class Scholarship of Tsinghua University
   - *2021*  Graduation Gold List - Personality Development Star (the only one in the university)
   - *2021*  Outstanding graduates
   - *2019*  National Scholarship
   - *2018*  National Scholarship
   - *2018*  Provincial merit students
+## Awards
+  - *2021*  <i> Bronze Medal, Rank 67/1178</i>  of Kaggle "Lux AI" Competition
+  - *2021*  <i> Rank 10/177</i>  of Megvii AI intelligent transportation open source track
   - *2019*  <i> National Finals Special Prize</i>  of “Siemens Cup” China Intelligent Manufacturing Contest
   - *2019*  <i> Provincial Special Prize</i> of “Siemens Cup” China Intelligent Manufacturing Contest
   - *2019*  <i> Second Prize</i>  of National College Students Mathematical Contest in Modeling (CUMCM)
@@ -102,8 +107,8 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 # 📖 Educations
 
-- *2021.09 -- Present*, Master, Artificial Intelligence, **Tsinghua University**. 
-- *2017.09 -- 2021.06*, Bachelor, Automation, **Harbin Engineering University**.
+- *2021.09 -- Present*, Master, Artificial Intelligence, **Tsinghua University**, GPA 3.92/4.00, ranking 10/96.
+- *2017.09 -- 2021.06*, Bachelor, Automation, **Harbin Engineering University**, GPA 93.46/100, ranking 1/356.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
