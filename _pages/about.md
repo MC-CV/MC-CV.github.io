@@ -115,7 +115,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 # 💻 Internships
 <div class='image-with-text'><div class='image'><div><img src='images/WeChat-Logo.png' width="100%"></div></div>
 <div class='text' markdown="1">
-- *2023.06 -- Present*, <i>Recommendation Algorithm Intern (Summer Intern)</i>, **Tencent**, WeiXin Group, Guangzhou, China
+- *2023.06 -- 2023.08*, <i>Recommendation Algorithm Intern (Summer Intern)</i>, **Tencent**, WeiXin Group, Guangzhou, China
 
     Topic: Development of CTR algorithm for WeChat
     
