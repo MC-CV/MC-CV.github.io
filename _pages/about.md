@@ -87,6 +87,8 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 </div>
 </div>
 
+**Patent**: [CN116523587A](https://patents.google.com/patent/CN116523587A), [CN116186382A](https://patents.google.com/patent/CN116186382A)
+
 
 # 🎖 Honors and Awards
   - *2022*  Second-class Scholarship of Tsinghua University
