@@ -38,9 +38,9 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2023</div><img src='images/CIKM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Parallel Knowledge Enhancement based Framework for Multi-behavior Recommendation.](https://arxiv.org/abs/2308.04807)
+## [Parallel Knowledge Enhancement based Framework for Multi-behavior Recommendation.](https://arxiv.org/abs/2308.04807)
 
-**[Chang Meng](https://scholar.google.com/citations?user=0yh3nS8AAAAJ)<sup>*</sup>**, Chenhao Zhai<sup>*</sup>, Yu Yang, [Hengyu Zhang](https://scholar.google.com/citations?user=wYQUEaMAAAAJ), [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ)<sup>$\dagger$</sup>
+**<u>Chang Meng<sup>*</sup></u>**, Chenhao Zhai<sup>*</sup>, Yu Yang, Hengyu Zhang, Xiu Li<sup>$\dagger$</sup>
 
 <i>Proceedings of the 32nd ACM International Conference on Information & Knowledge Management</i>, CIKM'23, CCF-B       
 
@@ -51,9 +51,11 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS 2023</div><img src='images/TOIS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Coarse-to-Fine Knowledge-Enhanced Multi-Interest Learning Framework for Multi-Behavior Recommendation.](https://doi.org/10.1145/3606369)
+## [Coarse-to-Fine Knowledge-Enhanced Multi-Interest Learning Framework for Multi-Behavior Recommendation.](https://doi.org/10.1145/3606369)
 
-**[Chang Meng](https://scholar.google.com/citations?user=0yh3nS8AAAAJ)<sup>*</sup>**, Ziqi Zhao<sup>*</sup>, [Wei Guo](https://scholar.google.com/citations?user=9NGhGNgAAAAJ), [Yingxue Zhang](https://scholar.google.com/citations?user=4bsYpogAAAAJ), [Haolun Wu](https://scholar.google.com/citations?user=-KcBDLcAAAAJ), [Chen Gao](https://scholar.google.com/citations?user=Af60_cEAAAAJ), [Dong Li](https://dblp.org/pid/47/4826-16.html), [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ)<sup>$\dagger$</sup>, [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ)<sup>$\dagger$</sup>
+<!-- **[Chang Meng](https://scholar.google.com/citations?user=0yh3nS8AAAAJ)<sup>*</sup>**, Ziqi Zhao<sup>*</sup>, [Wei Guo](https://scholar.google.com/citations?user=9NGhGNgAAAAJ), [Yingxue Zhang](https://scholar.google.com/citations?user=4bsYpogAAAAJ), [Haolun Wu](https://scholar.google.com/citations?user=-KcBDLcAAAAJ), [Chen Gao](https://scholar.google.com/citations?user=Af60_cEAAAAJ), [Dong Li](https://dblp.org/pid/47/4826-16.html), [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ)<sup>$\dagger$</sup>, [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ)<sup>$\dagger$</sup> -->
+
+**<u>Chang Meng<sup>*</sup></u>**, Ziqi Zhao<sup>*</sup>, Wei Guo, Yingxue Zhang, Haolun Wu, Chen Gao, Dong Li, Xiu Li<sup>$\dagger$</sup>, Ruiming Tang<sup>$\dagger$</sup>
 
 <i>ACM Transactions on Information Systems</i>, TOIS'23, CCF-A       
 
@@ -64,9 +66,9 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2023</div><img src='images/KDD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Hierarchical Projection Enhanced Multi-behavior Recommendation.](https://doi.org/10.1145/3580305.3599838)
+## [Hierarchical Projection Enhanced Multi-behavior Recommendation.](https://doi.org/10.1145/3580305.3599838)
 
-**[Chang Meng](https://scholar.google.com/citations?user=0yh3nS8AAAAJ)<sup>*</sup>**, [Hengyu Zhang](https://scholar.google.com/citations?user=wYQUEaMAAAAJ)<sup>*</sup>, [Wei Guo](https://scholar.google.com/citations?user=9NGhGNgAAAAJ), [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ), Haotian Liu, [Yingxue Zhang](https://scholar.google.com/citations?user=4bsYpogAAAAJ), [Hongkun Zheng](https://scholar.google.com/citations?user=uWjGhmoAAAAJ), [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ)<sup>$\dagger$</sup>, [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ)<sup>$\dagger$</sup>, [Rui Zhang](https://scholar.google.com/citations?user=p-YB1msAAAAJ)
+**<u>Chang Meng<sup>*</sup></u>**, Hengyu Zhang<sup>*</sup>, Wei Guo, Huifeng Guo, Haotian Liu, Yingxue Zhang, Hongkun Zheng, Ruiming Tang<sup>$\dagger$</sup>, Xiu Li<sup>$\dagger$</sup>, Rui Zhang
 
 <i>The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'23, CCF-A
 
@@ -77,9 +79,9 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/WWW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Compressed Interaction Graph based Framework for Multi-behavior Recommendation.](https://doi.org/10.1145/3543507.3583312) **(first student author, supervised by Wei Guo)**
+## [Compressed Interaction Graph based Framework for Multi-behavior Recommendation.](https://doi.org/10.1145/3543507.3583312) **(first student author, supervised by Wei Guo)**
 
-[Wei Guo](https://scholar.google.com/citations?user=9NGhGNgAAAAJ)<sup>*</sup>, **[Chang Meng](https://scholar.google.com/citations?user=0yh3nS8AAAAJ)<sup>*</sup>**, [Enming Yuan](https://scholar.google.com/citations?user=lUqJRhEAAAAJ), [Zhicheng He](https://scholar.google.com/citations?user=a81k2IoAAAAJ), [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ), [Yingxue Zhang](https://scholar.google.com/citations?user=4bsYpogAAAAJ), [Bo Chen](https://scholar.google.com/citations?user=RZU1wxsAAAAJ), [Yaochen Hu](https://scholar.google.com.hk/citations?user=VMwM-ZwAAAAJ), [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ)<sup>$\dagger$</sup>, [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ)<sup>$\dagger$</sup>, [Rui Zhang](https://scholar.google.com/citations?user=p-YB1msAAAAJ)
+Wei Guo<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Enming Yuan, Zhicheng He, Huifeng Guo, Yingxue Zhang, Bo Chen, Yaochen Hu, Ruiming Tang<sup>$\dagger$</sup>, Xiu Li<sup>$\dagger$</sup>, Rui Zhang
 
 <i>Proceedings of the ACM Web Conference 2023</i>, WWW'23, CCF-A
 
@@ -98,7 +100,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
   - *2019*  National Scholarship
   - *2018*  National Scholarship
   - *2018*  Provincial merit students
-  
+
 # 🏆 Competition Prizes
   - *2021*  <i> Bronze Medal, Rank 67/1178</i>  of Kaggle "Lux AI" Competition
   - *2021*  <i> Rank 10/177</i>  of Megvii AI intelligent transportation open source track
