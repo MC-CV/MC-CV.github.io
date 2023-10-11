@@ -98,6 +98,8 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
   - *2019*  National Scholarship
   - *2018*  National Scholarship
   - *2018*  Provincial merit students
+  
+# 🏆 Competition Prizes
   - *2021*  <i> Bronze Medal, Rank 67/1178</i>  of Kaggle "Lux AI" Competition
   - *2021*  <i> Rank 10/177</i>  of Megvii AI intelligent transportation open source track
   - *2019*  <i> National Finals Special Prize</i>  of “Siemens Cup” China Intelligent Manufacturing Contest
