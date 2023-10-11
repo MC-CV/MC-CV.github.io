@@ -38,7 +38,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2023</div><img src='images/CIKM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## [Parallel Knowledge Enhancement based Framework for Multi-behavior Recommendation.](https://arxiv.org/abs/2308.04807)
+### Parallel Knowledge Enhancement based Framework for Multi-behavior Recommendation.
 
 **<u>Chang Meng<sup>*</sup></u>**, Chenhao Zhai<sup>*</sup>, Yu Yang, Hengyu Zhang, Xiu Li<sup>$\dagger$</sup>
 
@@ -51,7 +51,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS 2023</div><img src='images/TOIS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## [Coarse-to-Fine Knowledge-Enhanced Multi-Interest Learning Framework for Multi-Behavior Recommendation.](https://doi.org/10.1145/3606369)
+### Coarse-to-Fine Knowledge-Enhanced Multi-Interest Learning Framework for Multi-Behavior Recommendation.
 
 <!-- **[Chang Meng](https://scholar.google.com/citations?user=0yh3nS8AAAAJ)<sup>*</sup>**, Ziqi Zhao<sup>*</sup>, [Wei Guo](https://scholar.google.com/citations?user=9NGhGNgAAAAJ), [Yingxue Zhang](https://scholar.google.com/citations?user=4bsYpogAAAAJ), [Haolun Wu](https://scholar.google.com/citations?user=-KcBDLcAAAAJ), [Chen Gao](https://scholar.google.com/citations?user=Af60_cEAAAAJ), [Dong Li](https://dblp.org/pid/47/4826-16.html), [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ)<sup>$\dagger$</sup>, [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ)<sup>$\dagger$</sup> -->
 
@@ -66,7 +66,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2023</div><img src='images/KDD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## [Hierarchical Projection Enhanced Multi-behavior Recommendation.](https://doi.org/10.1145/3580305.3599838)
+### Hierarchical Projection Enhanced Multi-behavior Recommendation.
 
 **<u>Chang Meng<sup>*</sup></u>**, Hengyu Zhang<sup>*</sup>, Wei Guo, Huifeng Guo, Haotian Liu, Yingxue Zhang, Hongkun Zheng, Ruiming Tang<sup>$\dagger$</sup>, Xiu Li<sup>$\dagger$</sup>, Rui Zhang
 
@@ -79,7 +79,8 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/WWW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## [Compressed Interaction Graph based Framework for Multi-behavior Recommendation.](https://doi.org/10.1145/3543507.3583312) **(first student author, supervised by Wei Guo)**
+### Compressed Interaction Graph based Framework for Multi-behavior Recommendation.
+**(first student author, supervised by Wei Guo)**
 
 Wei Guo<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Enming Yuan, Zhicheng He, Huifeng Guo, Yingxue Zhang, Bo Chen, Yaochen Hu, Ruiming Tang<sup>$\dagger$</sup>, Xiu Li<sup>$\dagger$</sup>, Rui Zhang
 
