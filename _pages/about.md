@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year Master's student in Artificial Intelligence at [Tsinghua University](https://www.tsinghua.edu.cn/), under the supervision of [Prof. Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ) and [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ). My research interests lie in the areas of Graph Neural Network, Recommender System, Machine Learning, and Multi-task Learning. Currently, I am mainly working on data mining, information retrieval and recommender systems.
+I am currently a third-year Master's student in Artificial Intelligence at [Tsinghua University](https://www.tsinghua.edu.cn/), under the supervision of [Prof. Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ) and [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ). My research interests lie in the areas of Graph Neural Network, Recommender System, Machine Learning, and Multi-task Learning. Currently, I am mainly working on data mining, information retrieval and recommender systems.
 
 My recent work topics include but are not limited to:
 <ul>
@@ -91,6 +91,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 
 # 🎖 Honors and Awards
+  - *2023*  National Scholarship of Tsinghua University
   - *2022*  Second-class Scholarship of Tsinghua University
   - *2021*  Graduation Gold List - Personality Development Star (the only one in the university)
   - *2021*  Outstanding graduates
