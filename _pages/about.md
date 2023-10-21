@@ -44,7 +44,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 <i>Proceedings of the 32nd ACM International Conference on Information & Knowledge Management</i>, CIKM'23, **CCF-B**
 
-[**Paper**](https://arxiv.org/abs/2308.04807) [**Code**](https://github.com/MC-CV/PKEF)
+[**Paper**](https://doi.org/10.1145/3583780.3615004) [**Code**](https://github.com/MC-CV/PKEF)
 </div>
 </div>
 
