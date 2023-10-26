@@ -90,7 +90,7 @@ Wei Guo<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Enming Yuan, Zhicheng He
 </div>
 </div>
 
-**Patent**: [CN116523587A](https://patents.google.com/patent/CN116523587A), [CN116186382A](https://patents.google.com/patent/CN116186382A)
+**Patent**: [CN116881578A](https://patents.google.com/patent/CN116881578A), [CN116523587A](https://patents.google.com/patent/CN116523587A), [CN116186382A](https://patents.google.com/patent/CN116186382A)
 
 
 # 🎖 Honors and Awards
