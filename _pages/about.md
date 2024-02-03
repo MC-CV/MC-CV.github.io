@@ -42,7 +42,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 **<u>Chang Meng<sup>*</sup></u>**, Chenhao Zhai<sup>*</sup>, Yu Yang, Hengyu Zhang, Xiu Li<sup>$\dagger$</sup>
 
-<i>Proceedings of the 32nd ACM International Conference on Information & Knowledge Management</i>, CIKM'23, **CCF-B**
+<i>Proceedings of the 32nd ACM International Conference on Information & Knowledge Management</i>, CIKM'23, Long Paper, Oral, **CCF-B**
 
 [**Paper**](https://doi.org/10.1145/3583780.3615004) [**Code**](https://github.com/MC-CV/PKEF)
 </div>
@@ -57,7 +57,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 **<u>Chang Meng<sup>*</sup></u>**, Ziqi Zhao<sup>*</sup>, Wei Guo, Yingxue Zhang, Haolun Wu, Chen Gao, Dong Li, Xiu Li<sup>$\dagger$</sup>, Ruiming Tang<sup>$\dagger$</sup>
 
-<i>ACM Transactions on Information Systems</i>, TOIS'23, **CCF-A**       
+<i>ACM Transactions on Information Systems</i>, TOIS'23, Research-Article, **CCF-A**       
 
 [**Paper**](https://doi.org/10.1145/3606369) [**Code**](https://github.com/MC-CV/CKML)
 </div>
@@ -70,7 +70,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 **<u>Chang Meng<sup>*</sup></u>**, Hengyu Zhang<sup>*</sup>, Wei Guo, Huifeng Guo, Haotian Liu, Yingxue Zhang, Hongkun Zheng, Ruiming Tang<sup>$\dagger$</sup>, Xiu Li<sup>$\dagger$</sup>, Rui Zhang
 
-<i>The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'23, **CCF-A**
+<i>The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'23, Long Paper, Oral, **CCF-A**
 
 [**Paper**](https://doi.org/10.1145/3580305.3599838) [**Code**](https://github.com/MC-CV/HPMR)
 </div>
@@ -84,7 +84,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 Wei Guo<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Enming Yuan, Zhicheng He, Huifeng Guo, Yingxue Zhang, Bo Chen, Yaochen Hu, Ruiming Tang<sup>$\dagger$</sup>, Xiu Li<sup>$\dagger$</sup>, Rui Zhang
 
-<i>Proceedings of the ACM Web Conference 2023</i>, WWW'23, **CCF-A**
+<i>Proceedings of the ACM Web Conference 2023</i>, WWW'23, Long Paper, Oral, **CCF-A**
 
 [**Paper**](https://doi.org/10.1145/3543507.3583312) [**Code**](https://github.com/MC-CV/CIGF)
 </div>
