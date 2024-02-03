@@ -44,7 +44,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 <i>Proceedings of the 32nd ACM International Conference on Information & Knowledge Management</i>, CIKM'23, Long Paper, Oral, **CCF-B**
 
-[**Paper**](https://doi.org/10.1145/3583780.3615004) [**Code**](https://github.com/MC-CV/PKEF)
+[**Paper**](https://doi.org/10.1145/3583780.3615004) [**Code**](https://github.com/MC-CV/PKEF) [**Video**](https://www.bilibili.com/video/BV1o34y1G73a)
 </div>
 </div>
 
@@ -72,7 +72,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 <i>The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'23, Long Paper, Oral, **CCF-A**
 
-[**Paper**](https://doi.org/10.1145/3580305.3599838) [**Code**](https://github.com/MC-CV/HPMR)
+[**Paper**](https://doi.org/10.1145/3580305.3599838) [**Code**](https://github.com/MC-CV/HPMR) [**Video**](https://www.bilibili.com/video/BV1wj411r74B)
 </div>
 </div>
 
@@ -86,7 +86,7 @@ Wei Guo<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Enming Yuan, Zhicheng He
 
 <i>Proceedings of the ACM Web Conference 2023</i>, WWW'23, Long Paper, Oral, **CCF-A**
 
-[**Paper**](https://doi.org/10.1145/3543507.3583312) [**Code**](https://github.com/MC-CV/CIGF)
+[**Paper**](https://doi.org/10.1145/3543507.3583312) [**Code**](https://github.com/MC-CV/CIGF) [**Video**](https://www.bilibili.com/video/BV1Pv4y1W7Zx)
 </div>
 </div>
 
