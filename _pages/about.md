@@ -31,7 +31,7 @@ My recent work topics include but are not limited to:
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
@@ -103,7 +103,6 @@ Wei Guo<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Enming Yuan, Zhicheng He
   - *2018*  Provincial merit students
 
 # 🏆 Competition Prizes
-  - *2021*  <i> Bronze Medal, Rank 67/1178</i>  of Kaggle "Lux AI" Competition
   - *2021*  <i> Rank 10/177</i>  of Megvii AI intelligent transportation open source track
   - *2019*  <i> National Finals Special Prize</i>  of “Siemens Cup” China Intelligent Manufacturing Contest
   - *2019*  <i> Provincial Special Prize</i> of “Siemens Cup” China Intelligent Manufacturing Contest
