@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chang Meng (孟昶)"
-description              : "A third-year master's student in artificial intelligence at Tsinghua University. Focusing on data mining and information retrieval."
+description              : "Researcher at Kuaishou Technology. Tsinghua University master degree in artificial intelligence. Focusing on data mining and information retrieval."
 repository               : "MC-CV.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Chang Meng (孟昶)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : 
-  location         : "Hangzhou, China"
+  location         : "Beijing, China"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0yh3nS8AAAAJ"

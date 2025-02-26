@@ -17,14 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year Master's student in Artificial Intelligence at [Tsinghua University](https://www.tsinghua.edu.cn/), under the supervision of [Prof. Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ) and [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ). My research interests lie in the areas of Graph Neural Network, Recommender System, Machine Learning, and Multi-task Learning. Currently, I am mainly working on data mining, information retrieval and recommender systems.
+I am currently a Researcher at Kuaishou Technology. Previously, I obtained my Master's degree in Artificial Intelligence from [Tsinghua University](https://www.tsinghua.edu.cn/), under the supervision of [Prof. Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ) and [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ). My research interests lie in the areas of Graph Neural Network, Recommender System, Machine Learning, and Multi-task Learning. Currently, I am mainly working on data mining, information retrieval and recommender systems.
 
 My recent work topics include but are not limited to:
 <ul>
     <li>Recommendation algorithms based on Graph Neural Network</li>
+    <li>Uplift Modeling</li>
     <li>Multi-behavior/Multi-scenario/Multi-task/Multi-modal recommendation algorithm</li>
-    <li>Sequential Recommendation</li>
-    <li>Click Trough Rate Estimation</li>
 </ul>
 
 <!-- # 🔥 News
@@ -34,6 +33,19 @@ My recent work topics include but are not limited to:
 # 📝 Selected Publications 
 
 $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/KDD2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Combinatorial Optimization Perspective based Framework for Multi-behavior Recommendation.
+
+Chenhao Zhai<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Yu Yang, Kexin Zhang, Xuhao Zhao, Xiu Li<sup>$\dagger$</sup>
+
+<i>The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'25, Long Paper, **CCF-A**
+
+[**Paper**](https://arxiv.org/pdf/2502.02232) [**Code**](https://github.com/MC-CV/COPF)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2023</div><img src='images/CIKM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -112,14 +124,24 @@ Wei Guo<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Enming Yuan, Zhicheng He
 
 # 📖 Educations
 
-- *2021.09 -- Present*, Master, Artificial Intelligence, **Tsinghua University**, GPA 3.92/4.00, ranking 10/96.
+- *2021.09 -- 2024.06*, Master, Artificial Intelligence, **Tsinghua University**, GPA 3.92/4.00, ranking 10/96.
 - *2017.09 -- 2021.06*, Bachelor, Automation, **Harbin Engineering University**, GPA 93.46/100, ranking 1/356.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
+# 💻 Working Experience
+<div class='image-with-text'><div class='image'><div><img src='images/kuaishou.png' width="100%"></div></div>
+<div class='text' markdown="1">
+- *2024.01 -- Present*, <i>Recommendation Algorithm Engineer</i>, **Kuaishou**, Community Science, Beijing, China
+
+    Topic: Development of Recommendation algorithm for Kuaishou
+    
+    Projects: Uplift Modeling
+</div>
+</div>
+
 <div class='image-with-text'><div class='image'><div><img src='images/WeChat-Logo.png' width="100%"></div></div>
 <div class='text' markdown="1">
 - *2023.06 -- 2023.08*, <i>Recommendation Algorithm Intern (Summer Intern)</i>, **Tencent**, WeiXin Group, Guangzhou, China
@@ -160,6 +182,11 @@ Wei Guo<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Enming Yuan, Zhicheng He
 </div>
 </div>
 
+
+# 🎈 Professional Activities
+- **Reviewer** 
+  - Journal: TOIS, TKDE
+  - Conference: KDD, SIGIR, CIKM, ICONIP
 
 
 
