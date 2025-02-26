@@ -34,6 +34,19 @@ My recent work topics include but are not limited to:
 
 $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/cdum.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Coarse-to-fine Dynamic Uplift Modeling for Real-time Video Recommendation.
+
+**<u>Chang Meng<sup>*</sup></u>**, Chenhao Zhai<sup>*</sup>, Xueliang Wang, Shuchang Liu, Xiaoqiang Feng, Lantao Hu<sup>$\dagger$</sup>, Xiu Li<sup>$\dagger$</sup>, Han Li<sup>$\dagger$</sup>, Kun Gai
+
+<i>Arxiv</i>
+
+[**Paper**](https://arxiv.org/pdf/2410.16755) [**Code**]()
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/KDD2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
