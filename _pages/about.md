@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Researcher at Kuaishou Technology. Previously, I obtained my Master's degree in Artificial Intelligence from [Tsinghua University](https://www.tsinghua.edu.cn/), under the supervision of [Prof. Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ) and [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ). My research interests lie in the areas of Graph Neural Network, Recommender System, Machine Learning, and Multi-task Learning. Currently, I am mainly working on data mining, information retrieval and recommender systems.
+I am currently a Recommendation Algorithm Engineer at Kuaishou Technology. Previously, I obtained my Master's degree in Artificial Intelligence from [Tsinghua University](https://www.tsinghua.edu.cn/), under the supervision of [Prof. Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ) and [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ). My research interests lie in the areas of Graph Neural Network, Recommender System, Machine Learning, and Multi-task Learning. Currently, I am mainly working on data mining, information retrieval and recommender systems.
 
 My recent work topics include but are not limited to:
 <ul>
@@ -152,7 +152,7 @@ Wei Guo<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Enming Yuan, Zhicheng He
 </div>
 </div>
 
-<div class='image-with-text'><div class='image'><div><img src='images/Tiktok_Logo.png' width="90%"></div></div>
+<div class='image-with-text'><div class='image'><div><img src='images/bytedance.png' width="90%"></div></div>
 <div class='text' markdown="1">
 - *2023.04 -- 2023.06*, <i>Search Algorithm Intern (Byteintern)</i>, **ByteDance**, TikTok, Shanghai, China
 
