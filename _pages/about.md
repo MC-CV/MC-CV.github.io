@@ -152,7 +152,7 @@ Wei Guo<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Enming Yuan, Zhicheng He
 </div>
 </div>
 
-<div class='image-with-text'><div class='image'><div><img src='images/bytedance.png' width="90%"></div></div>
+<div class='image-with-text'><div class='image'><div><img src='images/bytedance.png' width="100%"></div></div>
 <div class='text' markdown="1">
 - *2023.04 -- 2023.06*, <i>Search Algorithm Intern (Byteintern)</i>, **ByteDance**, TikTok, Shanghai, China
 
