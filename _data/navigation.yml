@@ -6,11 +6,14 @@ main:
   # - title: "News"
   #   url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Selected Publications "
+    url: "/#-selected-publications "
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
+
+  - title: "Competition Prizes"
+    url: "/#-competition-prizes"
 
   - title: "Educations"
     url: "/#-educations"
@@ -18,5 +21,8 @@ main:
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Working Experience"
+    url: "/#-working-experience"
+
+  - title: "Professional Activities"
+    url: "/#-professional-activities"
