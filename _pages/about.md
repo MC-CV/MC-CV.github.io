@@ -66,7 +66,7 @@ Xingyu Lu<sup>*</sup>, Tianke Zhang<sup>*</sup>, **<u>Chang Meng</u>**, Xiaobei 
 
 Chenhao Zhai<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Yu Yang, Kexin Zhang, Xuhao Zhao, Xiu Li<sup>$\dagger$</sup>
 
-<i>The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'25, Long Paper, **CCF-A**
+<i>The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'25, Long Paper, Oral, **CCF-A**
 
 [**Paper**](https://arxiv.org/pdf/2502.02232) [**Code**](https://github.com/MC-CV/COPF)
 </div>
