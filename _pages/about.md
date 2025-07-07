@@ -21,8 +21,7 @@ I am currently a Recommendation Algorithm Engineer at Kuaishou Technology. Previ
 
 My recent work topics include but are not limited to:
 <ul>
-    <li>Recommendation algorithms based on Graph Neural Network</li>
-    <li>Uplift Modeling</li>
+    <li>LLM/RL/Uplift4Rec</li>
     <li>Multi-behavior/Multi-scenario/Multi-task/Multi-modal recommendation algorithm</li>
 </ul>
 
