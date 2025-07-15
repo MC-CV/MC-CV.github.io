@@ -45,7 +45,7 @@ Xingyu Lu<sup>*</sup>, Tianke Zhang<sup>*</sup>, **<u>Chang Meng</u>**, Xiaobei 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/cdum.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RecSys 2025</div><img src='images/cdum.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Coarse-to-fine Dynamic Uplift Modeling for Real-time Video Recommendation.
