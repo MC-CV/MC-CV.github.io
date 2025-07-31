@@ -39,7 +39,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 ## VLM as Policy: Common-Law Content Moderation Framework for Short Video Platform.
 Xingyu Lu<sup>*</sup>, Tianke Zhang<sup>*</sup>, **<u>Chang Meng</u>**, Xiaobei Wang, Jinpeng Wang, Yifan Zhang, Shisong Tang, Changyi Liu, Haojie Ding, Kaiyu Jiang, Kaiyu Tang, Bin Wen, Haitao Zheng, Fan Yang<sup>$\dagger$</sup>, Tingting Gao, Di Zhang, Kun Gai
 
-<i>Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'25, Long Paper, <span style="color:red">Oral</span>, **CCF-A**
+<i>Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'25, Long Paper, <span style="color:red">**Best Paper Honorable Mention**</span>, **CCF-A**
 
 [**Paper**](https://arxiv.org/pdf/2504.14904) [**Code**](https://github.com/KuaiMod/KuaiMod.github.io) [**Page Site**](https://kuaimod.github.io.)
 </div>
