@@ -39,7 +39,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 ## VLM as Policy: Common-Law Content Moderation Framework for Short Video Platform.
 Xingyu Lu<sup>*</sup>, Tianke Zhang<sup>*</sup>, **<u>Chang Meng</u>**, Xiaobei Wang, Jinpeng Wang, Yifan Zhang, Shisong Tang, Changyi Liu, Haojie Ding, Kaiyu Jiang, Kaiyu Tang, Bin Wen, Haitao Zheng, Fan Yang<sup>$\dagger$</sup>, Tingting Gao, Di Zhang, Kun Gai
 
-<i>Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'25, Long Paper, <span style="color:red">**Best Paper Honorable Mention**</span>, **CCF-A**
+<i>Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'25, Applied Data Science Track, <span style="color:red">**Best Paper Honorable Mention**</span>, **CCF-A**
 
 [**Paper**](https://arxiv.org/pdf/2504.14904) [**Code**](https://github.com/KuaiMod/KuaiMod.github.io) [**Page Site**](https://kuaimod.github.io.)
 </div>
@@ -65,7 +65,7 @@ Xingyu Lu<sup>*</sup>, Tianke Zhang<sup>*</sup>, **<u>Chang Meng</u>**, Xiaobei 
 
 Chenhao Zhai<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Yu Yang, Kexin Zhang, Xuhao Zhao, Xiu Li<sup>$\dagger$</sup>
 
-<i>Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'25, Long Paper, <span style="color:red">Oral</span>, **CCF-A**
+<i>Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'25, Research Track, <span style="color:red">Oral</span>, **CCF-A**
 
 [**Paper**](https://arxiv.org/pdf/2502.02232) [**Code**](https://github.com/MC-CV/COPF)
 </div>
@@ -78,7 +78,7 @@ Chenhao Zhai<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Yu Yang, Kexin Zhan
 
 **<u>Chang Meng<sup>*</sup></u>**, Chenhao Zhai<sup>*</sup>, Yu Yang, Hengyu Zhang, Xiu Li<sup>$\dagger$</sup>
 
-<i>Proceedings of the 32nd ACM International Conference on Information & Knowledge Management</i>, CIKM'23, Long Paper, <span style="color:red">Oral</span>, **CCF-B**
+<i>Proceedings of the 32nd ACM International Conference on Information & Knowledge Management</i>, CIKM'23, Full Paper, <span style="color:red">Oral</span>, **CCF-B**
 
 [**Paper**](https://doi.org/10.1145/3583780.3615004) [**Code**](https://github.com/MC-CV/PKEF) [**Video**](https://www.bilibili.com/video/BV1o34y1G73a)
 </div>
@@ -106,7 +106,7 @@ Chenhao Zhai<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Yu Yang, Kexin Zhan
 
 **<u>Chang Meng<sup>*</sup></u>**, Hengyu Zhang<sup>*</sup>, Wei Guo, Huifeng Guo, Haotian Liu, Yingxue Zhang, Hongkun Zheng, Ruiming Tang<sup>$\dagger$</sup>, Xiu Li<sup>$\dagger$</sup>, Rui Zhang
 
-<i>Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'23, Long Paper, <span style="color:red">Oral</span>, **CCF-A**
+<i>Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'23, Applied Data Science Track, <span style="color:red">Oral</span>, **CCF-A**
 
 [**Paper**](https://doi.org/10.1145/3580305.3599838) [**Code**](https://github.com/MC-CV/HPMR) [**Video**](https://www.bilibili.com/video/BV1wj411r74B)
 </div>
@@ -116,11 +116,10 @@ Chenhao Zhai<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Yu Yang, Kexin Zhan
 <div class='paper-box-text' markdown="1">
 
 ## Compressed Interaction Graph based Framework for Multi-behavior Recommendation.
-**(first student author, supervised by Wei Guo)**
 
 Wei Guo<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Enming Yuan, Zhicheng He, Huifeng Guo, Yingxue Zhang, Bo Chen, Yaochen Hu, Ruiming Tang<sup>$\dagger$</sup>, Xiu Li<sup>$\dagger$</sup>, Rui Zhang
 
-<i>Proceedings of the ACM Web Conference 2023</i>, WWW'23, Long Paper, <span style="color:red">Oral</span>, **CCF-A**
+<i>Proceedings of the ACM Web Conference 2023</i>, WWW'23, Research Track, <span style="color:red">Oral</span>, **CCF-A**
 
 [**Paper**](https://doi.org/10.1145/3543507.3583312) [**Code**](https://github.com/MC-CV/CIGF) [**Video**](https://www.bilibili.com/video/BV1Pv4y1W7Zx)
 </div>
@@ -162,7 +161,7 @@ Wei Guo<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Enming Yuan, Zhicheng He
 
     Topic: Development of Recommendation algorithm for Kuaishou
     
-    Projects: Uplift Modeling
+    Projects: Uplift Modeling, Reinforcement Learning, LLM4Rec
 </div>
 </div>
 
