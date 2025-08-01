@@ -33,6 +33,18 @@ My recent work topics include but are not limited to:
 
 $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/klan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## KLAN: Kuaishou Landing-page Adaptive Navigator.
+Fan Li<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Jiaqi Fu, Shuchang Liu, Jiashuo Zhang, Tianke Zhang, Xueliang Wang<sup>$\dagger$</sup>, Xiaoqiang Feng<sup>$\dagger$</sup>
+
+<i>arxiv</i>
+
+[**Paper**](https://arxiv.org/pdf/2507.23459) [**Code**]()
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/kuaimod.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
