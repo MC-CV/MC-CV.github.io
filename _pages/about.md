@@ -153,6 +153,7 @@ Wei Guo<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Enming Yuan, Zhicheng He
 
 
 # 🎖 Honors and Awards
+  - *2025*  KDD Best Paper Honorable Mention
   - *2024*  Outstanding Graduation Thesis of Tsinghua University
   - *2023*  National Scholarship of Tsinghua University
   - *2022*  Second-class Scholarship of Tsinghua University
