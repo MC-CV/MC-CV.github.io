@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Recommendation Algorithm Engineer at Kuaishou Technology. Previously, I obtained my Master's degree in Artificial Intelligence from [Tsinghua University](https://www.tsinghua.edu.cn/), under the supervision of [Prof. Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ) and [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ). My research interests lie in the areas of Graph Neural Network, Recommender System, Machine Learning, and Multi-task Learning. Currently, I am mainly working on data mining, information retrieval and recommender systems.
+I am currently a Researcher at ByteDance. Previously, I obtained my Master's degree in Artificial Intelligence from [Tsinghua University](https://www.tsinghua.edu.cn/), under the supervision of [Prof. Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ) and [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ). My research interests lie in the areas of LLM, Graph Neural Network, Recommender System, Machine Learning, and Multi-task Learning.
 
 My recent work topics include but are not limited to:
 <ul>
-    <li>LLM/RL/Uplift4Rec</li>
+    <li>LLM</li>
     <li>Multi-behavior/Multi-scenario/Multi-task/Multi-modal recommendation algorithm</li>
 </ul>
 
@@ -39,9 +39,21 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 ## KLAN: Kuaishou Landing-page Adaptive Navigator.
 Fan Li<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Jiaqi Fu, Shuchang Liu, Jiashuo Zhang, Tianke Zhang, Xueliang Wang<sup>$\dagger$</sup>, Xiaoqiang Feng<sup>$\dagger$</sup>
 
-<i>arxiv</i>
+<i>Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'26, Applied Data Science Track, **CCF-A**
 
 [**Paper**](https://arxiv.org/pdf/2507.23459) [**Code**]()
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/hmum.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Heterogeneous Multi-treatment Uplift Modeling for Trade-off Optimization in Short-Video Recommendation.
+Chenhao Zhai<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Xueliang Wang, Shuchang Liu, Xiaolong Hu, Shisong Tang, Xiaoqiang Feng<sup>$\dagger$</sup>, Xiu Li<sup>$\dagger$</sup>
+
+<i>Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'26, Applied Data Science Track, **CCF-A**
+
+[**Paper**](https://arxiv.org/pdf/2511.18997) [**Code**]()
 </div>
 </div>
 
@@ -137,7 +149,7 @@ Wei Guo<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Enming Yuan, Zhicheng He
 </div>
 </div>
 
-**Patent**: [CN116881578A](https://patents.google.com/patent/CN116881578A), [CN116523587A](https://patents.google.com/patent/CN116523587A), [CN116186382A](https://patents.google.com/patent/CN116186382A)
+**Patent**: [CN116881578A](https://patents.google.com/patent/CN116881578A), [CN116523587A](https://patents.google.com/patent/CN116523587A), [CN116186382A](https://patents.google.com/patent/CN116186382A), [CN120410691A](https://patents.google.com/patent/CN120410691A)
 
 
 # 🎖 Honors and Awards
@@ -167,9 +179,19 @@ Wei Guo<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Enming Yuan, Zhicheng He
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Working Experience
+<div class='image-with-text'><div class='image'><div><img src='images/bytedance.png' width="100%"></div></div>
+<div class='text' markdown="1">
+- *2025.12 -- Present*, <i>LLM Researcher</i>, **ByteDance**, AML, Hangzhou, China
+
+    Topic: Research on large language models
+
+    Projects: LLM
+</div>
+</div>
+
 <div class='image-with-text'><div class='image'><div><img src='images/kuaishou.png' width="100%"></div></div>
 <div class='text' markdown="1">
-- *2024.01 -- Present*, <i>Recommendation Algorithm Engineer</i>, **Kuaishou**, Community Science, Beijing, China
+- *2024.01 -- 2025.11*, <i>Recommendation Algorithm Engineer</i>, **Kuaishou**, Community Science, Beijing, China
 
     Topic: Development of Recommendation algorithm for Kuaishou
     
