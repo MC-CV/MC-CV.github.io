@@ -161,7 +161,7 @@ Wei Guo<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Enming Yuan, Zhicheng He
   - *2021*  Outstanding Graduates
   - *2019*  National Scholarship
   - *2018*  National Scholarship
-  - *2018*  Provincial merit students
+  - *2018*  Provincial Merit Students
 
 # 🏆 Competition Prizes
   - *2021*  <i> Rank 10/177</i>  of Megvii AI intelligent transportation open source track
