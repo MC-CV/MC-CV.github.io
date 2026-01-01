@@ -39,7 +39,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 ## KLAN: Kuaishou Landing-page Adaptive Navigator.
 Fan Li<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Jiaqi Fu, Shuchang Liu, Jiashuo Zhang, Tianke Zhang, Xueliang Wang<sup>$\dagger$</sup>, Xiaoqiang Feng<sup>$\dagger$</sup>
 
-<i>Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'26, Applied Data Science Track, **CCF-A**
+<i>Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'26, Applied Data Science Track, **CCF-A**
 
 [**Paper**](https://arxiv.org/pdf/2507.23459) [**Code**]()
 </div>
@@ -51,7 +51,7 @@ Fan Li<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Jiaqi Fu, Shuchang Liu, J
 ## Heterogeneous Multi-treatment Uplift Modeling for Trade-off Optimization in Short-Video Recommendation.
 Chenhao Zhai<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Xueliang Wang, Shuchang Liu, Xiaolong Hu, Shisong Tang, Xiaoqiang Feng<sup>$\dagger$</sup>, Xiu Li<sup>$\dagger$</sup>
 
-<i>Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'26, Applied Data Science Track, **CCF-A**
+<i>Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'26, Applied Data Science Track, **CCF-A**
 
 [**Paper**](https://arxiv.org/pdf/2511.18997) [**Code**]()
 </div>
@@ -183,7 +183,7 @@ Wei Guo<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Enming Yuan, Zhicheng He
 <div class='text' markdown="1">
 - *2025.12 -- Present*, <i>LLM Researcher</i>, **ByteDance**, AML, Hangzhou, China
 
-    Topic: Research on large language models
+    Topic: Research on Large Language Models
 
     Projects: LLM
 </div>
