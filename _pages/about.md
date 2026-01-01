@@ -65,20 +65,20 @@ Xingyu Lu<sup>*</sup>, Tianke Zhang<sup>*</sup>, **<u>Chang Meng</u>**, Xiaobei 
 
 <i>Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'25, Applied Data Science Track, <span style="color:red">**Best Paper Honorable Mention**</span>, **CCF-A**
 
-[**Paper**](https://arxiv.org/pdf/2504.14904) [**Code**](https://github.com/KuaiMod/KuaiMod.github.io) [**Page Site**](https://kuaimod.github.io.)
+[**Paper**](https://doi.org/10.1145/3711896.3737273) [**Code**](https://github.com/KuaiMod/KuaiMod.github.io) [**Page Site**](https://kuaimod.github.io.)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RecSys 2025</div><img src='images/cdum.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## Coarse-to-fine Dynamic Uplift Modeling for Real-time Video Recommendation.
+## Enhancing Online Video Recommendation via a Coarse-to-fine Dynamic Uplift Modeling Framework.
 
 **<u>Chang Meng<sup>*</sup></u>**, Chenhao Zhai<sup>*</sup>, Xueliang Wang, Shuchang Liu, Xiaoqiang Feng, Lantao Hu<sup>$\dagger$</sup>, Xiu Li<sup>$\dagger$</sup>, Han Li<sup>$\dagger$</sup>, Kun Gai
 
 <i>Proceedings of the 19th ACM Conference on Recommender Systems</i>, RecSys'25, Full Paper, <span style="color:red">Oral</span>, **CCF-B**
 
-[**Paper**](https://arxiv.org/pdf/2410.16755) [**Code**](https://github.com/UpliftVideo/CDUM)
+[**Paper**](https://doi.org/10.1145/3705328.3748070) [**Code**](https://github.com/UpliftVideo/CDUM)
 </div>
 </div>
 
@@ -91,7 +91,7 @@ Chenhao Zhai<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Yu Yang, Kexin Zhan
 
 <i>Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'25, Research Track, <span style="color:red">Oral</span>, **CCF-A**
 
-[**Paper**](https://arxiv.org/pdf/2502.02232) [**Code**](https://github.com/MC-CV/COPF)
+[**Paper**](https://doi.org/10.1145/3690624.3709278) [**Code**](https://github.com/MC-CV/COPF)
 </div>
 </div>
 
