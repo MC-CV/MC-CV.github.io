@@ -33,7 +33,7 @@ My recent work topics include but are not limited to:
 
 $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/klan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/klan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## KLAN: Kuaishou Landing-page Adaptive Navigator.
@@ -45,7 +45,7 @@ Fan Li<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Jiaqi Fu, Shuchang Liu, J
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/hmum.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/hmum.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Heterogeneous Multi-treatment Uplift Modeling for Trade-off Optimization in Short-Video Recommendation.
