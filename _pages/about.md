@@ -21,7 +21,7 @@ I am currently a Researcher at ByteDance. Previously, I obtained my Master's deg
 
 My recent work topics include but are not limited to:
 <ul>
-    <li>LLM</li>
+    <li>Large Language Model</li>
     <li>Multi-behavior/Multi-scenario/Multi-task/Multi-modal recommendation algorithm</li>
 </ul>
 
