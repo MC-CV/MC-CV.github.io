@@ -164,7 +164,6 @@ Wei Guo<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Enming Yuan, Zhicheng He
   - *2018*  Provincial Merit Students
 
 # 🏆 Competition Prizes
-  - *2021*  <i> Rank 10/177</i>  of Megvii AI intelligent transportation open source track
   - *2019*  <i> National Finals Special Prize</i>  of “Siemens Cup” China Intelligent Manufacturing Contest
   - *2019*  <i> Provincial Special Prize</i> of “Siemens Cup” China Intelligent Manufacturing Contest
   - *2019*  <i> Second Prize</i>  of National College Students Mathematical Contest in Modeling (CUMCM)
