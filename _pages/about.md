@@ -158,7 +158,7 @@ Wei Guo<sup>*</sup>, **<u>Chang Meng<sup>*</sup></u>**, Enming Yuan, Zhicheng He
   - *2023*  National Scholarship of Tsinghua University
   - *2022*  Second-class Scholarship of Tsinghua University
   - *2021*  Graduation Gold List - Personality Development Star (the only one in the university)
-  - *2021*  Outstanding graduates
+  - *2021*  Outstanding Graduates
   - *2019*  National Scholarship
   - *2018*  National Scholarship
   - *2018*  Provincial merit students
